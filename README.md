@@ -21,4 +21,3 @@ Follow these steps to run the project:
 gcc sorting_benchmark.c -o sorting_benchmark
 
 
-![100000](images/100000.jpeg)
